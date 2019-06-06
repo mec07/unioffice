@@ -11,8 +11,8 @@ import (
 	"encoding/xml"
 	"time"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/pkg/metadata/core_properties"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/schema/soo/pkg/metadata/core_properties"
 )
 
 // CoreProperties contains document specific properties.

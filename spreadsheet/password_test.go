@@ -10,7 +10,7 @@ package spreadsheet_test
 import (
 	"testing"
 
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/mec07/unioffice/spreadsheet"
 )
 
 func TestKnownHashes(t *testing.T) {

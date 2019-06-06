@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/mec07/unioffice/schema/soo/wml"
 )
 
 func TestCT_AltChunkPrConstructor(t *testing.T) {

@@ -1,1 +1,3 @@
-module github.com/unidoc/unioffice
+module github.com/mec07/unioffice
+
+go 1.12

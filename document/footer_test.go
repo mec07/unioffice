@@ -10,7 +10,7 @@ package document_test
 import (
 	"testing"
 
-	"github.com/unidoc/unioffice/document"
+	"github.com/mec07/unioffice/document"
 )
 
 func TestFooterRemoveParagraph(t *testing.T) {

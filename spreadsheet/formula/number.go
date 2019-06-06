@@ -10,7 +10,7 @@ package formula
 import (
 	"strconv"
 
-	"github.com/unidoc/unioffice"
+	"github.com/mec07/unioffice"
 )
 
 type Number struct {

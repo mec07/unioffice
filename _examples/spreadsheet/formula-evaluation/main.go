@@ -4,8 +4,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/unidoc/unioffice/spreadsheet"
-	"github.com/unidoc/unioffice/spreadsheet/formula"
+	"github.com/mec07/unioffice/spreadsheet"
+	"github.com/mec07/unioffice/spreadsheet/formula"
 )
 
 func main() {

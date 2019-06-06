@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/unidoc/unioffice"
+	"github.com/mec07/unioffice"
 )
 
 type CT_TLAnimateScaleBehavior struct {

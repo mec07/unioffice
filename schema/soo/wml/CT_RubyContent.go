@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/math"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/schema/soo/ofc/math"
 )
 
 type CT_RubyContent struct {

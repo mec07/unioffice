@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/pml"
+	"github.com/mec07/unioffice/schema/soo/pml"
 )
 
 func TestCT_TLAnimateScaleBehaviorConstructor(t *testing.T) {

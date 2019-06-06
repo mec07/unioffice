@@ -11,13 +11,13 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/unidoc/unioffice"
+	"github.com/mec07/unioffice"
 
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/mec07/unioffice/common"
+	"github.com/mec07/unioffice/measurement"
+	"github.com/mec07/unioffice/schema/soo/dml"
 
-	"github.com/unidoc/unioffice/schema/soo/pml"
+	"github.com/mec07/unioffice/schema/soo/pml"
 )
 
 type Slide struct {

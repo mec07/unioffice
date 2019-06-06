@@ -19,14 +19,14 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/common"
+	"github.com/mec07/unioffice/zippkg"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	st "github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/mec07/unioffice/schema/soo/dml"
+	st "github.com/mec07/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/mec07/unioffice/schema/soo/pkg/relationships"
+	"github.com/mec07/unioffice/schema/soo/wml"
 )
 
 // Document is a text document that can be written out in the OOXML .docx

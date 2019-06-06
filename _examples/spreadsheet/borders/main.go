@@ -4,9 +4,9 @@ package main
 import (
 	"log"
 
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/schema/soo/sml"
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/mec07/unioffice/color"
+	"github.com/mec07/unioffice/schema/soo/sml"
+	"github.com/mec07/unioffice/spreadsheet"
 )
 
 func main() {

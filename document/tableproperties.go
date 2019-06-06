@@ -8,9 +8,9 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/measurement"
+	"github.com/mec07/unioffice/schema/soo/wml"
 )
 
 // TableProperties are the properties for a table within a document

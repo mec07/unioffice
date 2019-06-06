@@ -10,8 +10,8 @@ package common
 import (
 	"strings"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/pkg/content_types"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/schema/soo/pkg/content_types"
 )
 
 // ContentTypes is the top level "[Content_Types].xml" in a zip package.

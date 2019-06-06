@@ -7,8 +7,8 @@
 
 package chart
 
-import crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
-import "github.com/unidoc/unioffice"
+import crt "github.com/mec07/unioffice/schema/soo/dml/chart"
+import "github.com/mec07/unioffice"
 
 // PieChart is a Pie chart.
 type PieChart struct {

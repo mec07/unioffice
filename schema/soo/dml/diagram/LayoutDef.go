@@ -12,8 +12,8 @@ package diagram
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/schema/soo/dml"
 )
 
 type LayoutDef struct {

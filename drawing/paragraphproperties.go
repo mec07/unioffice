@@ -8,8 +8,8 @@
 package drawing
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/schema/soo/dml"
 )
 
 // ParagraphProperties allows controlling paragraph properties.

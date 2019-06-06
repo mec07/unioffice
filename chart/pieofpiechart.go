@@ -8,11 +8,11 @@
 package chart
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/drawing"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/color"
+	"github.com/mec07/unioffice/drawing"
+	"github.com/mec07/unioffice/schema/soo/dml"
+	crt "github.com/mec07/unioffice/schema/soo/dml/chart"
 )
 
 // PieOfPieChart is a Pie chart with an extra Pie chart.

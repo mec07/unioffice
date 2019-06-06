@@ -12,9 +12,9 @@ package wml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/math"
-	"github.com/unidoc/unioffice/schema/soo/schemaLibrary"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/schema/soo/ofc/math"
+	"github.com/mec07/unioffice/schema/soo/schemaLibrary"
 )
 
 type Settings struct {

@@ -8,11 +8,11 @@
 package chart
 
 import (
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/drawing"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
+	"github.com/mec07/unioffice/color"
+	"github.com/mec07/unioffice/drawing"
+	"github.com/mec07/unioffice/measurement"
+	"github.com/mec07/unioffice/schema/soo/dml"
+	crt "github.com/mec07/unioffice/schema/soo/dml/chart"
 )
 
 // LineChartSeries is the data series for a line chart.

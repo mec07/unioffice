@@ -8,11 +8,11 @@
 package drawing
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/measurement"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/color"
+	"github.com/mec07/unioffice/measurement"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/mec07/unioffice/schema/soo/dml"
 )
 
 type ShapeProperties struct {

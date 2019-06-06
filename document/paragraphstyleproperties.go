@@ -8,10 +8,10 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/measurement"
+	"github.com/mec07/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/mec07/unioffice/schema/soo/wml"
 )
 
 // ParagraphStyleProperties is the styling information for a paragraph.
