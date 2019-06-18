@@ -6,8 +6,8 @@ import (
 	"archive/zip"
 	"strings"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/mec07/unioffice"
+	"github.com/mec07/unioffice/zippkg"
 )
 
 //AddImageToZip adds an image (either from bytes or from disk) and adds it to the zip file.
