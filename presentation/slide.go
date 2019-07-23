@@ -169,3 +169,14 @@ func (s Slide) AddImage(img common.ImageRef) Image {
 	ir.Properties().SetPosition(0, 0)
 	return ir
 }
+
+// AddTable adds a new table to a slide.
+func (s Slide) AddTable() Table {
+	elts := pml.NewEG_BlockLevelElts()
+	s.x.Body.EG_BlockLevelElts = append(s.x.Body.EG_BlockLevelElts, elts)
+	c := pml.NewEG_ContentBlockContent()
+	elts.EG_ContentBlockContent = append(elts.EG_ContentBlockContent, c)
+	tbl := pml.NewCT_Tbl()
+	c.Tbl = append(c.Tbl, tbl)
+	return Table{s, tbl}
+}
